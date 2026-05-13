@@ -1,4 +1,6 @@
-# Lightweight System Monitor (Flask + Docker)
+#Python Scripts
+
+## Lightweight System Monitor (Flask + Docker)
 
 A minimalistic Python microservice designed to provide real-time system health metrics via a REST API. 
 
@@ -12,3 +14,5 @@ A minimalistic Python microservice designed to provide real-time system health m
 * Python 3.11 / Flask
 * Docker
 * psutil
+
+## QR-code generator
